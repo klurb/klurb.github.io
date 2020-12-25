@@ -1,33 +1,21 @@
-# Trying Github Page
+# My Github Page
 
-## Topic 1
+## Who am I?
 
-Lorem ipsum xxx
-1. You can try this in your `README.md`:
+I am IT engineer working in a bank. https://www.linkedin.com/in/mathieubollore/
+and on Github for fun
 
-    ```
-    blah blah
-    ```
+## My contributions
 
-2. Or you could do this:
+### Advenjure 
 
-    ```
-    fromage!
-    ```
+Advenjure is a simple language to build fun games.
+I made a small contributions to house taken over https://github.com/facundoolano/house-taken-over
+And started a project of my own https://github.com/klurb/call-of-cthulhu   
+A WIP playable version is here : https://klurb.github.io/call-of-cthulhu/resources/public/index.html
 
-## Topic 2
+### Other stuff
 
-### Part 1
-
-I am a man who walks alone :
-
-    ```
-    fear of the dark
-    ```
-
-### Part 2
-
-To be continued ...
-
+TBD
 
 *I have been using Slate to build this page*
